@@ -1,0 +1,10 @@
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.csprojAssemblyReference.cache
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.Form1.resources
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.Properties.Resources.resources
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.csproj.GenerateResource.cache
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.csproj.CoreCompileInputs.cache
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\bin\Debug\Metodo_Thompson.exe.config
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\bin\Debug\Metodo_Thompson.exe
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\bin\Debug\Metodo_Thompson.pdb
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.exe
+C:\Users\Wid\source\repos\Metodo_Thompson\Metodo_Thompson\obj\Debug\Metodo_Thompson.pdb
